@@ -1,38 +1,40 @@
-# python-learning🌱
-my python learning journey
-About
+# Python Learning 🌱
+
+This repository contains my Python learning journey.
+
+## About
 
 I am learning Python as the first step toward Machine Learning.
 
-Topics Covered
+## Topics Covered
 
-Variables and Data Types
-Input and Type Conversion
-Arithmetic Operators
-Conditional Statements
-Boolean and Logical Operators
-For Loops
-While Loops
-Lists
-Functions
-Return Statement
-Python Modules
-Dictionaries
+- Variables and Data Types
+- Input and Type Conversion
+- Arithmetic Operators
+- Conditional Statements
+- Boolean and Logical Operators
+- For Loops
+- While Loops
+- Lists
+- Functions
+- Return Statement
+- Python Modules
+- Dictionaries
 
-Progress
+## Progress
 
 Python Basics — Completed ✅
 
-Next Steps
+## Next Steps
 
-NumPy
-Pandas
-Matplotlib
-Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Machine Learning
 
-Tools
+## Tools
 
-Python
-VS Code
-Git
-GitHub
+- Python
+- VS Code
+- Git
+- GitHub
