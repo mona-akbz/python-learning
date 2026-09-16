@@ -20,11 +20,20 @@ I am learning Python as the first step toward Machine Learning.
 - Return Statement
 - Python Modules
 - Dictionaries
+- Classes
+
+ ## Project
+ 
+ - Grade System
+- Shopping Manager
+- Movie Manager
+- Contact Manager 
 
 ## Progress
 
-Python Basics — Completed ✅
-
+- Python Basics — Completed ✅
+- Practical Python Projects — Completed ✅
+  
 ## Next Steps
 
 - NumPy
